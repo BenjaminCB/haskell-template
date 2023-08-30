@@ -1,4 +1,4 @@
 module Main where
 
 main :: IO ()
-main = putStrLn "Hello, World"
+main = print . replicate 3 $ ("Hello, World" :: String)
