@@ -2,11 +2,11 @@ cabal-version:      2.4
 name:               haskell-template
 version:            0.1.0.0
 license:            MIT
-copyright:          2022 Sridhar Ratnakumar
-maintainer:         srid@srid.ca
-author:             Sridhar Ratnakumar
+copyright:          2023 BenjaminCB
+maintainer:         benjamincb@hotmail.dk
+author:             BenjaminCB
 category:           Web
-homepage:           https://srid.ca/haskell-template
+homepage:           https://github.com/BenjaminCB/haskell-template
 
 -- TODO: Before hackage release.
 -- A short (one-line) description of the package.
